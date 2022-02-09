@@ -1,0 +1,12 @@
+body {
+    background-color: #ffcdcd;
+}
+.burger {
+    height: 50px;
+    width: 50px;
+}
+.lines {
+border-color: #1d2786;
+height: 1px;
+background-color: #1d2786;
+}
